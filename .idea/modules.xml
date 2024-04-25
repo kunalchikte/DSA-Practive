@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" filepath="$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-practice.iml" filepath="$PROJECT_DIR$/DSA-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum.iml" />
     </modules>
