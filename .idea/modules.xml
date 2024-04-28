@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" filepath="$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-practice.iml" filepath="$PROJECT_DIR$/DSA-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximumSumOfContinuosSubArray/MaximumSumOfContinuosSubArray.iml" filepath="$PROJECT_DIR$/MaximumSumOfContinuosSubArray/MaximumSumOfContinuosSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProductOfArray-ExceptiSelf/ProductOfArray-ExceptiSelf.iml" filepath="$PROJECT_DIR$/ProductOfArray-ExceptiSelf/ProductOfArray-ExceptiSelf.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum.iml" />
     </modules>
