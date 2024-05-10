@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSA-practice.iml" filepath="$PROJECT_DIR$/DSA-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaximumSumOfContinuosSubArray/MaximumSumOfContinuosSubArray.iml" filepath="$PROJECT_DIR$/MaximumSumOfContinuosSubArray/MaximumSumOfContinuosSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProductOfArray-ExceptiSelf/ProductOfArray-ExceptiSelf.iml" filepath="$PROJECT_DIR$/ProductOfArray-ExceptiSelf/ProductOfArray-ExceptiSelf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/containerWithMostWater/containerWithMostWater.iml" filepath="$PROJECT_DIR$/containerWithMostWater/containerWithMostWater.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum.iml" />
     </modules>
   </component>
